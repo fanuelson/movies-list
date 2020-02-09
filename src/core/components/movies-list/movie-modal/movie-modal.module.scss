@@ -1,0 +1,54 @@
+
+.modalTitlesLabel {
+    color: #8F8F8F;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.modalTitleValue {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.modalOverviewText {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.movieImage {
+    width: 400px;
+    max-width: none;
+}
+
+.usersScoreWrapper {
+    bottom: 0px;
+    position: absolute;
+    right: 0px;
+    padding: 30px 30px;
+    width: 230px;
+}
+
+.usersScoreText {
+    top: 20px;
+    position: relative;
+    width: 70px;
+    display: inline-block;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+}
+
+.usersScoreCircle {
+    
+    padding: 10px 0px;
+    border: 6px solid #F6BE00;
+    border-radius: 50%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    width: 76px;
+    height: 76px;
+}

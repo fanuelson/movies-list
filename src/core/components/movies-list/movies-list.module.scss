@@ -1,0 +1,51 @@
+:global {
+    .swal2-modal {
+        padding: 0 !important;
+        width: 70em !important;
+    
+        .swal2-header {
+            display: none !important;
+        }
+    }
+}
+
+.moviesListWrapper {
+    height: 100%;
+    background: #F9F9F9;
+}
+
+.pageHeader {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.star-wrapper {
+    background: white;
+    border-radius: 50px;
+    border: 1px solid lightgray;
+    margin: 5px;
+    height: 35px;
+}
+
+.modal-titles-label {
+    color: #8F8F8F;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.modal-title-value {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.modal-overview-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+
+
